@@ -2,9 +2,6 @@
   "name": "change-mirror",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "run": "sh start.sh",
-  },
   "license": "MIT",
   "author": "changx",
   "engines": {
