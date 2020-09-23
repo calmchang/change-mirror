@@ -1,7 +1,7 @@
 {
   "name": "change-mirror",
   "version": "1.0.0",
-  "main": "start.sh",
+  "main": "index.js",
   "scripts": {
     "run": "sh start.sh",
   },
@@ -10,7 +10,7 @@
   "engines": {
     "node": ">=10.18.0",
     "npm": ">=6.13.4"
-  },
+  },change-mirror
   "repository": {
     "type": "github",
     "url": "https://github.com/calmchang/change-mirror"
