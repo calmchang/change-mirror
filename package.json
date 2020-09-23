@@ -1,0 +1,18 @@
+{
+  "name": "change-mirror",
+  "version": "1.0.0",
+  "main": "start.sh",
+  "scripts": {
+    "run": "sh start.sh",
+  },
+  "license": "MIT",
+  "author": "changx",
+  "engines": {
+    "node": ">=10.18.0",
+    "npm": ">=6.13.4"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/calmchang/change-mirror"
+  }
+}
